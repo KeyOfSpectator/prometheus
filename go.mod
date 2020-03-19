@@ -66,4 +66,5 @@ require (
 )
 
 replace k8s.io/klog => github.com/simonpasquier/klog-gokit v0.1.0
-replace github.com/prometheus/common => github.com/KeyOfSpectator/common v0.9.2-0.20200318035013-0da9bfc3ae20
+
+replace github.com/prometheus/common => github.com/KeyOfSpectator/common v0.4.2-0.20200319085406-0e1f99b64e7c
